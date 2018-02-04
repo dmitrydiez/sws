@@ -256,7 +256,17 @@ COMMAND_T g_XenCommandTable[] =
 	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 08" }, "XENAKIOS_LOADTRACKTEMPLATE08", DoOpenTrackTemplate, NULL, 8 },
 	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 09" }, "XENAKIOS_LOADTRACKTEMPLATE09", DoOpenTrackTemplate, NULL, 9 },
 	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 10 },
-
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 11 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 12 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 13 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 14 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 15 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 16 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 17 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 18 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 19 },
+	{ { DEFACCEL, "Xenakios/SWS: [Deprecated] Load track template 10" }, "XENAKIOS_LOADTRACKTEMPLATE10", DoOpenTrackTemplate, NULL, 20 },
+	
 	{ { DEFACCEL, "Xenakios/SWS: Open REAPER project in item BWAV info (autosearch for RPP if necessary)" }, "XENAKIOS_OPENRPPINBWAVAS", DoOpenRPPofBWAVdesc,NULL, },
 	{ { DEFACCEL, "Xenakios/SWS: Select first of selected tracks" }, "XENAKIOS_SELFIRSTOFSELTRAX", DoSelectFirstOfSelectedTracks, NULL, },
 	{ { DEFACCEL, "Xenakios/SWS: Select last of selected tracks" }, "XENAKIOS_SELLASTOFSELTRAX", DoSelectLastOfSelectedTracks, NULL, },
